@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/leymirba/bjoern/head"
+	"$halflambert" 1
+
+	"$phong" "1"
+	"$phongboost" "2"
+	"$phongexponent" "7"
+	"$phongalbedotint" "1"										
+	"$phongfresnelranges"	"[.01 .4 1]"
+
+$surfaceprop flesh	
+}
