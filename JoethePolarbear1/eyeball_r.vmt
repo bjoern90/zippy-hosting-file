@@ -1,6 +1,0 @@
-"eyes"
-{
-	"$basetexture" "models/leymirba/bjoern/eyewhite"
-	"$iris" "models/leymirba/bjoern/pupil"
-	"$halflambert" 1
-}
