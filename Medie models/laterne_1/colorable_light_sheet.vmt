@@ -1,0 +1,15 @@
+"UnlitGeneric"
+{
+	"model" "1"
+	"$basetexture"	"models/medie/colorable_light_sheet"
+
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" 		"$basetexture"
+			"animatedtextureframenumvar" 	"$frame"
+			"animatedtextureframerate" 	10
+		}
+	}
+}

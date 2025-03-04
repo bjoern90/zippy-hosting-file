@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/medie/wood_texture"
+	"$allowdiffusemodulation" "false"
+}
