@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/medie/plywood_roof_3"
+	"$bumpmap" "models/medie/plywood_roof_3_normal"
+}
