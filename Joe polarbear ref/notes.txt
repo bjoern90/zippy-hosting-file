@@ -1,1 +1,0 @@
-the video is scaled on models/hunter/blocks/cube025x2x025.mdl prop :)
